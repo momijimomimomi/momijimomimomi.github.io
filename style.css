@@ -1,0 +1,29 @@
+nav {
+	background-color: purple;
+	width: 50%;
+	float: right;
+}
+
+header {
+	background-color: red;
+	width: 100%;
+	text-align: center;
+}
+
+aside {
+	background-color: orange;
+	width: 30%;
+	float: left;
+}
+
+article {
+	background-color: green;
+	width: 70%;
+	float: left;
+}
+
+footer {
+	background-color: blue;
+	width: 100%;
+	text-align: center;
+}
